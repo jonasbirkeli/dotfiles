@@ -23,5 +23,5 @@ git clone git@github.com:jonas-birkeli/dotfiles.git ~/dotfiles
 
 ```
 cd ~/dotfiles
-./dotfiles-symlink.sh
+./symlink-dotfiles.sh
 ```
