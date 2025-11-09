@@ -17,4 +17,11 @@ This repository contains my personal configuration files (dotfiles) for macOS.
 
 ```bash
 git clone git@github.com:jonas-birkeli/dotfiles.git ~/dotfiles
+```
 
+2. Create symlinks to home directory:
+
+```
+cd ~/dotfiles
+./dotfiles-symlink.sh
+```
