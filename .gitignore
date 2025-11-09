@@ -1,0 +1,10 @@
+# Sensite keys
+.ssh/
+
+# Just large files
+.zsh_history
+.python_history
+.viminfo
+.colima/
+.docker/
+.zsh_sessions/
