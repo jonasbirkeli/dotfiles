@@ -1,4 +1,4 @@
-    " ==============================
+" ==============================
 " Basic Settings
 " ==============================
 set nocompatible            " Disable compatibility with old vi
@@ -50,3 +50,6 @@ nnoremap <leader>Y "+Y
 call plug#begin('~/.vim/plugged')
 
 Plug 'w0rp/ale'
+
+call plug#end()
+
