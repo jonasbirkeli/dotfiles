@@ -8,6 +8,7 @@
 .colima/
 .docker/
 .zsh_sessions/
+.pyenv/
 
 # Vscode extensions
 .vscode-oss/
