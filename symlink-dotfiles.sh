@@ -13,6 +13,7 @@ FILES=(
     ".vim"
     ".ssh"
     ".vscode-oss"
+    ".vibe"
 )
 
 echo "Backing up existing dotfiles to $BACKUP_DIR..."
