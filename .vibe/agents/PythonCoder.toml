@@ -1,0 +1,14 @@
+display_name = "PythonCoder"
+description = "Python Coder CLI Agent"
+safety = "safe"
+auto_approve = true
+
+[system_prompt]
+path = "~/.vibe/prompts/python_coder.md"
+
+enabled_tools = [
+  "read_file",
+  "write_file",
+  "grep"
+]
+

@@ -1,0 +1,14 @@
+display_name = "GitExpert"
+description = "Git Expert CLI Agent"
+safety = "safe"
+auto_approve = true
+
+[system_prompt]
+path = "~/.vibe/prompts/git_expert.md"
+
+enabled_tools = [
+  "read_file",
+  "write_file",
+  "grep"
+]
+
