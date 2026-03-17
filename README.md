@@ -10,6 +10,7 @@ This repository contains my personal configuration files (dotfiles) for macOS.
 - `.vim/` — Vim plugins and runtime files
 - `.ssh/` — SSH configuration (keys not included)
 - `.vscode-oss/` — VS Code settings
+- `.vibe/` - Mistral Vibe agent setup 
 
 ## Setup
 
