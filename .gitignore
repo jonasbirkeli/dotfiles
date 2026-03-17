@@ -12,3 +12,5 @@
 
 # Vscode extensions
 .vscode-oss/
+
+**/.env
